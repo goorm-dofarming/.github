@@ -67,7 +67,7 @@
 
 ### 🖥 **Deployment**
 
-| AWS S3 | Github Actions | Elastic Load Balancer | Route53 | CodeDeploy | NgineX |
+| AWS S3 | Github Actions | Elastic Load Balancer | Route53 | CodeDeploy | NGINX |
 | :----: | :------------: | :------------: |:----: |:-------: | :----: |
 | <img alt="AWS s3" src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-s3-2968702-2464706.png" height="65" width="65"> | <img alt="Github Actions" src="https://user-images.githubusercontent.com/45915619/233895718-764af4a7-c46e-41c8-a111-7e627bf0d511.png" height="65" width="65"> | <img alt="ElasticLoadBalancer" src="https://seeklogo.com/images/A/aws-elastic-load-balancing-logo-73F2ABF601-seeklogo.com.png" height="65" width="65"> | <img alt="Route53" src="https://static-00.iconduck.com/assets.00/aws-route53-icon-212x256-16an9num.png" height="65" width="65"> | <img alt="CodeDeploy" src="https://static-00.iconduck.com/assets.00/aws-codedeploy-icon-423x512-uj6wy6n4.png" height="65" width="65"> |<img  src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NgineX" width="60" height="60" /> |
 
